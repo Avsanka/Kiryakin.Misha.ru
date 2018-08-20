@@ -1,4 +1,4 @@
-[Abou-as](about-as.md)
+[Создатель](about-as.md)
 # Инструкция по GIT и Linux командам
 
 ## Работа с Linux
