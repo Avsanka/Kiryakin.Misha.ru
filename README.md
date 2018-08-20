@@ -1,4 +1,4 @@
-[Abou-as](About-as.md)
+[Abou-as](about-as.md)
 # Инструкция по GIT и Linux командам
 
 ## Работа с Linux
